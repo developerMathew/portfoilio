@@ -1,0 +1,44 @@
+.body {
+    background-color: chocolate;
+}
+
+.entry {
+    text-align: center;
+    font-size: x-large;
+    padding-top: 50px;
+    padding-left: 70vh;
+    color: white;
+    position: fixed;
+}
+
+.box1 {
+    background-color: black;
+    width: 100px;
+    height: 96vh;
+    margin-left: 0px;
+    position: fixed;
+}
+
+.box2 {
+    background-color: black;
+    width: 100px;
+    height: 96vh;
+}
+
+#box2 {
+    padding-left: 195vh;
+}
+
+.nextbtn {
+    text-align: center;
+    position: fixed;
+    padding-left: 105vh;
+    padding-top: 40vh;
+}
+
+#nextbtn {
+    background-color: rgb(76, 218, 171);
+    width: 10vh;
+    height: 5vh;
+    border-color: rgb(76, 221, 173);
+}

@@ -1,0 +1,132 @@
+.body {
+    background-color: chocolate;
+}
+
+.box1 {
+    width: 60vh;
+    height: 90vh;
+    background-color: black;
+    border-radius: 20px;
+    position: fixed;
+
+}
+
+.inline-box1 {
+    background-color: white;
+    border-radius: 20px;
+    width: 60vh;
+    height: 93vh;
+}
+
+img {
+    width: 30vh;
+    height: 40vh;
+    padding-left: 110px;
+    padding-top: 30px;
+}
+
+.move-box1 {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.info {
+    font-size: 9;
+    padding-left: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+/*anchor link*/
+.home-bar {
+    background-color: black;
+    height: 10vh;
+    padding-top: 5vh;
+    border-radius: 20px;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+.nav a.current-page {
+    color: chocolate;
+}
+
+.a-home {
+    color: white;
+    padding-left: 80vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-about {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-resume {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-projects {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-skills {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-awards {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+/*content para*/
+#para {
+    padding-top: 20px;
+    padding-left: 80vh;
+}
+
+.para {
+    background-color: white;
+    border-radius: 20px;
+    width: 120vh;
+    height: 70vh;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 24;
+    text-align: justify;
+}
+
+.pronext {
+    background-color: rgb(71, 243, 186);
+    border-color: rgb(71, 240, 184);
+    width: 10vh;
+    height: 5vh;
+}
+
+#pronext {
+    padding-left: 55vh;
+    padding-top: 30px;
+}

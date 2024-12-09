@@ -1,0 +1,158 @@
+.body {
+    background-color: chocolate;
+}
+
+.box1 {
+    width: 60vh;
+    height: 90vh;
+    background-color: black;
+    border-radius: 20px;
+    position: fixed;
+
+}
+
+.inline-box1 {
+    background-color: white;
+    border-radius: 20px;
+    width: 60vh;
+    height: 93vh;
+}
+
+img {
+    width: 30vh;
+    height: 40vh;
+    padding-left: 110px;
+    padding-top: 30px;
+}
+
+.move-box1 {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.info {
+    font-size: 9;
+    padding-left: 10px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+/*content para*/
+#para {
+    padding-top: 20px;
+    padding-left: 85vh;
+}
+
+.para {
+    background-color: white;
+    border-radius: 20px;
+    width: 100vh;
+    height: 70vh;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 24;
+    text-align: justify;
+    position: fixed;
+
+}
+
+/*anchor link*/
+.home-bar {
+    background-color: black;
+    height: 10vh;
+    padding-top: 5vh;
+    border-radius: 20px;
+}
+
+/*nextbtn*/
+#nextbtn {
+    padding-left: 195vh;
+    padding-top: 30vh;
+}
+
+a:hover {
+    color: chocolate;
+}
+
+.nav a.current-page {
+    color: chocolate;
+}
+
+.a-home {
+    color: white;
+    padding-left: 80vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-about {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-resume {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-projects {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-skills {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.a-awards {
+    color: white;
+    padding-left: 10vh;
+    padding-top: 100vh;
+    text-decoration: none;
+    font-size: 30;
+}
+
+.backbtn {
+    background-color: rgb(34, 243, 173);
+    width: 90px;
+    height: 40px;
+    border-color: rgb(32, 235, 168);
+}
+
+.nextbtn {
+    background-color: rgb(40, 235, 170);
+    width: 80px;
+    height: 40px;
+    border-color: rgb(27, 231, 163)
+}
+
+#backbtn {
+    padding-left: 70vh;
+    padding-top: 30vh;
+}
+
+.rev {
+    background-color: rgb(72, 244, 187);
+    border-color: rgb(72, 233, 179);
+    height: 40px;
+    width: 80px;
+}
+
+#rev {
+    padding-left: 47vh;
+}
